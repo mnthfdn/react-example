@@ -1,3 +1,15 @@
+## About this project
+
+
+Mui Material is used in this react project.
+https://dummyapi.io/data/v1/post?limit=10 The post data taken from this endpoint is stored globally with ThemeContext. In this way, access to this data is provided in all components.
+In summary, this structure consisting of 3 pages is as follows:
+1. The page where the posts are listed: Post List Page
+2. The page where the users are listed: User List Page
+3. The page showing the user information: User Detail Page
+
+Documentation: https://dummyapi.io/docs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
